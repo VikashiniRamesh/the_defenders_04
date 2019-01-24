@@ -1,6 +1,4 @@
 # the_defenders_04
-hackathon
-# the_defenders_04
  
 FARM INPUT CALCULATION:
 
@@ -12,11 +10,11 @@ Using the information , we suggest the type of pesticide/fertilizer and calculat
 
 ----REQUIREMENTS----
 
-No special requirements are needed.
+Eclipse JAVA Compiler.
 
 -----GETTING STARTED----
 
-Here, we create an user interface in a simple way so that that couble be feasibly used by the farmers to get to know about their requirement.Initially we come up with storing the basic
+Here, we create an user interface in a simple way so that could be feasibly used by the farmers to get to know about their requirement.Initially we come up with storing the basic
 data that are needed.Then we will request the user to choose what is the problem they are facing in crop cultivation.
 
 Step 1:We will collect the informations such as Name of the crop, number of days since it has been after cultivation, Area of land which the farmer holds.
